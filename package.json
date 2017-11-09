@@ -2,7 +2,7 @@
   "name": "npr-scraper-react",
   "version": "1.0.0",
   "description": "mongo db using mongoose with a react front end",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/jtgonski/npr-scraper-react#readme",
   "dependencies": {
-    "axios": "^0.17.0",
     "body-parser": "^1.18.2",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.16.2",
