@@ -1,0 +1,30 @@
+{
+  "name": "npr-scraper-react",
+  "version": "1.0.0",
+  "description": "mongo db using mongoose with a react front end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtgonski/npr-scraper-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtgonski/npr-scraper-react/issues"
+  },
+  "homepage": "https://github.com/jtgonski/npr-scraper-react#readme",
+  "dependencies": {
+    "axios": "^0.17.0",
+    "body-parser": "^1.18.2",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "mongo": "^0.1.0",
+    "mongoose": "^4.13.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "request": "^2.83.0"
+  }
+}
